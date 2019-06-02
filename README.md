@@ -1,7 +1,7 @@
 # golangpifun
 Playing around with go land and 4 pis
 
-I have 4 Rasberry Pis of varying "strength". Upon them I have installed Cassandra and created a 4 node clutser.
+I have 4 Rasberry Pis of varying "strength". Upon them I have installed Cassandra and created a 4 node cluster.
 
 Next, I created a basic TS data schema.
 
